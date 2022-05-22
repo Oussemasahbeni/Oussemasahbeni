@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Oussema Sahbeni
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning HTML,CSS,JAVASCRIPT,C and python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me oussemasahbeni300@gmail.com and https://www.facebook.com/oussema.sahbenii/
 
 <!---

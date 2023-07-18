@@ -33,13 +33,20 @@
 
 | Project List | Languages |
 | --- | :---: |
-| [**🔗 Todo App**](https://github.com/Alkaison/Todo-JavaScript) | HTML, CSS, JS |
-| [**🔗 Calculator**](https://github.com/Alkaison/Calculator) | HTML, CSS, JS |
-| [**🔗 Currency Converter**](https://github.com/Alkaison/Currency-Converter) | HTML, CSS, JS |
-| [**🔗 Tic Tac Toe**](https://github.com/Alkaison/Tic-Tac-Toe) | HTML, CSS, JS |
-| [**🔗 King of Spices**](https://github.com/Alkaison/King-of-Spices) | HTML, CSS, JS |
-| [**🔗 JavaScript Projects**](https://github.com/Alkaison/Web-Projects) | HTML, CSS, JS |
-| [**🔗 Alkaison Blog**](https://github.com/Alkaison/Alkaison.github.io) | Jekyll, Ruby |
+| [**🔗 Todo App**](https://github.com/Oussemasahbeni/to-do-list) | HTML, CSS, JS |
+| [**🔗 Calculator**](https://github.com/Oussemasahbeni/calculator) | HTML, CSS, JS |
+| [**🔗 Rock-paper-scissors**](https://github.com/Oussemasahbeni/rps-game) | HTML, CSS, JS |
+| [**🔗 js-clone**](https://github.com/Oussemasahbeni/js-amazon-project) | HTML, CSS, JS |
+| [**🔗 iset-rades-website**](https://github.com/Oussemasahbeni/IsetRades) | HTML, CSS, TS, BOOTSTRAP, PHP, ANGULAR|
+| [**🔗 Weather**](https://github.com/Alkaison/Web-Projects) | ANGULAR, API |
+
+## 👨‍💻 Software Development Projects
+
+| Project List | Languages |
+| --- | :---: |
+| [**🔗 JAVAFX Crud**](https://github.com/Oussemasahbeni/JavaFXCrud) | JAVAFX |
+
+
 
 
 ## 🚀 Languages:
@@ -48,14 +55,17 @@
 <code><img height="27" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" title="CSS3"></code>
 <code><img height="27" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" title="JavaScript"></code>
 <code><img height="27" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="c" title="C"></code>
-<code><img height="27" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cpp" title="C++"></code>
-<code><img height="27" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown" title="Markdown"></code>
+<code><img height="27" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" title="nodejs"></code>
+<code><img height="27" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" title="ts"></code>
+<code><img height="27" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular" title="angular"></code>
+<code><img height="27" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" title="bootstrap"></code>
+<code><img height="27" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" title="mongodb"></code>
+
+
 
 ## 🔮 Tools:
 
 <code><img height="27" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" title="GIT"></code>
-
-
 
 
 

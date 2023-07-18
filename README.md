@@ -38,7 +38,7 @@
 | [**🔗 Rock-paper-scissors**](https://github.com/Oussemasahbeni/rps-game) | HTML, CSS, JS |
 | [**🔗 js-clone**](https://github.com/Oussemasahbeni/js-amazon-project) | HTML, CSS, JS |
 | [**🔗 iset-rades-website**](https://github.com/Oussemasahbeni/IsetRades) | HTML, CSS, TS, BOOTSTRAP, PHP, ANGULAR|
-| [**🔗 Weather**](https://github.com/Alkaison/Web-Projects) | ANGULAR, API |
+| [**🔗 Weather**](https://github.com/Oussemasahbeni/Weather-Api) | ANGULAR, API |
 
 ## 👨‍💻 Software Development Projects
 
@@ -84,5 +84,5 @@
 	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=Oussemasahbeni&theme=tokyo-night&radius=16">
   </a>
 
-
+### Show some ❤️ by starring ⭐ some of the repositories! and thank you for your time!
 <br clear="both">

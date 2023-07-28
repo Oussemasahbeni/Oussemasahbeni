@@ -38,7 +38,7 @@
 | [**🔗 Rock-paper-scissors**](https://github.com/Oussemasahbeni/rps-game) | HTML, CSS, JS |
 | [**🔗 js-clone**](https://github.com/Oussemasahbeni/js-amazon-project) | HTML, CSS, JS |
 | [**🔗 iset-rades-website**](https://github.com/Oussemasahbeni/IsetRades) | HTML, CSS, TS, BOOTSTRAP, PHP, ANGULAR|
-| [**🔗 Weather**](https://github.com/Oussemasahbeni/Weather-Api) | ANGULAR, API |
+| [**🔗 Weather**](https://github.com/Oussemasahbeni/Weather-Website) | ANGULAR, API |
 
 ## 👨‍💻 Software Development Projects
 

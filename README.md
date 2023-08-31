@@ -78,6 +78,4 @@
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
 	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=Oussemasahbeni&theme=tokyo-night&radius=16">
   </a>
-
-### Show some ❤️ by starring ⭐ some of the repositories! and thank you for your time!
 <br clear="both">

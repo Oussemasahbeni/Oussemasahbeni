@@ -28,12 +28,13 @@
 
 | Project List | Languages |
 | --- | :---: |
-| [**🔗 Todo App**](https://github.com/Oussemasahbeni/to-do-list) | HTML, CSS, JS |
+| [**🔗 Simon game**](https://github.com/Oussemasahbeni/Simon-Game-Challenge) | HTML, CSS, JS |
 | [**🔗 Calculator**](https://github.com/Oussemasahbeni/calculator) | HTML, CSS, JS |
 | [**🔗 Rock-paper-scissors**](https://github.com/Oussemasahbeni/rps-game) | HTML, CSS, JS |
 | [**🔗 js-clone**](https://github.com/Oussemasahbeni/js-amazon-project) | HTML, CSS, JS |
 | [**🔗 iset-rades-website**](https://github.com/Oussemasahbeni/IsetRades) |  TS, BOOTSTRAP, PHP, ANGULAR|
-| [**🔗 Weather**](https://github.com/Oussemasahbeni/Weather-Website) | ANGULAR, API |
+| [**🔗 Weather site**](https://github.com/Oussemasahbeni/Weather-Website) | ANGULAR, API |
+| [**🔗 todo List**](https://github.com/Oussemasahbeni/Todo-app-with-expressJS) | express, EJS |
 
 ## 👨‍💻 Software Development Projects
 

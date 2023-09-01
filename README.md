@@ -34,7 +34,7 @@
 | [**🔗 js-clone**](https://github.com/Oussemasahbeni/js-amazon-project) | HTML, CSS, JS |
 | [**🔗 iset-rades-website**](https://github.com/Oussemasahbeni/IsetRades) |  TS, BOOTSTRAP, PHP, ANGULAR|
 | [**🔗 Weather site**](https://github.com/Oussemasahbeni/Weather-Website) | ANGULAR, API |
-| [**🔗 todo List**](https://github.com/Oussemasahbeni/Todo-app-with-expressJS) | express, EJS |
+| [**🔗 todo List**](https://github.com/Oussemasahbeni/Todo-app-with-expressJS) | expressJS, EJS |
 
 ## 👨‍💻 Software Development Projects
 

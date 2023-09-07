@@ -13,7 +13,6 @@
 <br>
 
 - 🥋 I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
-- 🌱 I’m currently learning **Angular,Spring boot,**
 - 🔭 I’m Currently Studing in **3rd Year**.
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
 - 📫 How to reach me **oussemasahbeni300@gmail.com**.

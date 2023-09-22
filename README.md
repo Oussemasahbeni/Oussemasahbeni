@@ -1,4 +1,4 @@
-![GitHub Banner](https://media.licdn.com/dms/image/D4E16AQE0S7dFjY7V4A/profile-displaybackgroundimage-shrink_350_1400/0/1686007628572?e=1695254400&v=beta&t=J2vj_1zqqg_egBQTwNzG8xRQX90Us_97AosjRwhw2AQ)
+![GitHub Banner](https://github.com/Oussemasahbeni/Oussemasahbeni/blob/main/1686007628572.jpg)
 
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px">, I'm Oussema Sahbeni</h1>
 <h3 align="center">A passionate Web developer from Tunisia</h3>

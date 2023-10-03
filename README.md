@@ -72,6 +72,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OussemaSahbeni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 ## 📈 GitHub Contribution Graph
 

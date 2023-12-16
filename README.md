@@ -18,7 +18,7 @@
 
 <br>
 
-- 🥋 I'm very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
+- 🥋 I'm a very Passionate For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
 - 🔭 I’m Currently Studing in **3rd Year**.
 - 📘 I’m Currently learning **𝐌𝐄𝐑𝐍 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭**.
 - 📫 How to reach me **oussemasahbeni300@gmail.com**.
@@ -85,12 +85,16 @@
 
 ## 📈 GitHub Contribution Graph
 
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
+<div align="center">
+	 <a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph">
 	  <img height="200px" src="https://github-readme-activity-graph.vercel.app/graph?username=Oussemasahbeni&theme=tokyo-night&radius=16">
   </a>
+</div>
+
+ 
 <br clear="both">
 
-## Listen with me in spotify
+## Listen with me in Spotify
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" title="Listen with me on Spotify">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Listen with me on Spotify" />

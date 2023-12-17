@@ -6,11 +6,12 @@
   </p>
 
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px">, I'm Oussema Sahbeni</h1>
-<h3 align="center">A passionate Web developer from Tunisia</h3>
+   <h3 align="center">  <img src="https://camo.githubusercontent.com/2ed02e58218e0fdc19c21a975b9f8a2b59fe5eeb8b1c1f86de3f9f1783bfd272/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966">A passionate Web developer from Tunisia  <img src="https://camo.githubusercontent.com/2ed02e58218e0fdc19c21a975b9f8a2b59fe5eeb8b1c1f86de3f9f1783bfd272/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f6173796e63706172726f742e676966"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussemasahbeni&label=Profile%20views&color=0e75b6&style=flat" alt="oussemasahbeni" /> </p>
 
 
+<img src="https://github.com/Oussemasahbeni/Oussemasahbeni/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"> 
 
 
 
@@ -69,7 +70,7 @@
 
 ## 🔮 Tools:
 
-<code><img height="27" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" title="GIT"></code>
+<img height="27" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" title="GIT">
 
 
 

@@ -25,8 +25,8 @@
 <br>
 
 - 🥋 I'm a very Passionate student  For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
-- 🔭 I’m Currently Studing in **3rd Year**.
-- 📘 I’m Currently learning **Angular /Spring Boot/ Docker**.
+- 🔭 I'm currently engaged in my End of Studies internship with **Inspark**.
+- 📘 I'm Currently learning **Angular /Spring Boot/ Docker**.
 - 📫 How to reach me **oussemasahbeni300@gmail.com**.
 <h3 align="left">Connect with me:</h3>
 <p align="left">

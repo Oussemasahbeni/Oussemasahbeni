@@ -42,8 +42,6 @@
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/jira-%2300f.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-
-
 </div>
 
 
@@ -65,22 +63,23 @@
 | [**🔗 iset-rades-website**](https://github.com/Oussemasahbeni/IsetRades) |  TS, BOOTSTRAP, PHP, ANGULAR|
 | [**🔗 Weather site**](https://github.com/Oussemasahbeni/Weather-Website) | ANGULAR, API |
 | [**🔗 todo List**](https://github.com/Oussemasahbeni/Todo-app-with-expressJS) | expressJS, EJS |
+</div>
 
-## 👨‍💻 Software Development Projects
-
+## 👨‍💻 Software Development Projects 
+<div align="center">
 
 | Project List | Languages |
 | --- | :---: |
 | [**🔗 JAVAFX Crud**](https://github.com/Oussemasahbeni/JavaFXCrud) | JAVAFX |
+</div>
 
-###
 ## ⚡ GitHub Stats & Languages
 
 <div align="center">
+	<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Oussemasahbeni&theme=dark" alt="GitHub Streak" /></a>
-
-<div align="center">
-
+	</div>
+	<br>
 <img src="https://github-readme-stats.vercel.app/api?username=OussemaSahbeni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OussemaSahbeni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
@@ -102,10 +101,8 @@
   </a>
 </div>
 
- 
-<br clear="both">
 
-## Listen with me in Spotify
+## 🎵 Listen with me in Spotify
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" title="Listen with me on Spotify">
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Listen with me on Spotify" />

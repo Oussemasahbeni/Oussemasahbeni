@@ -45,10 +45,10 @@
 </div>
 
 
+
 ## 🔮 Tools:
 
-<img height="27" src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="git" title="GIT">
-
+[![My Tools](https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,azure,vscode)](https://skillicons.dev)
 
 
 ## 🌐 Web Development Projects

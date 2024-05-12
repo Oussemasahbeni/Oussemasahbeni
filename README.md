@@ -44,34 +44,9 @@
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </div>
 
-
-
 ## 🔮 Tools:
 
 [![My Tools](https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,azure,vscode)](https://skillicons.dev)
-
-
-## 🌐 Web Development Projects
-<div align="center">
-
-| Project List | Languages |
-| --- | :---: |
-| [**🔗 Simon game**](https://github.com/Oussemasahbeni/Simon-Game-Challenge) | HTML, CSS, JS |
-| [**🔗 Secrets-Authentication-practice**](https://github.com/Oussemasahbeni/Authenticating-and-security-with-mongoDB-and-expressJs) | MongoDB, expressJs, passport,google Auth |
-| [**🔗 Rock-paper-scissors**](https://github.com/Oussemasahbeni/rps-game) | HTML, CSS, JS |
-| [**🔗 Workout-Buddy**](https://github.com/Oussemasahbeni/Workout-Tracker-mern-project) | React, ExpressJs, MongoDB |
-| [**🔗 iset-rades-website**](https://github.com/Oussemasahbeni/IsetRades) |  TS, BOOTSTRAP, PHP, ANGULAR|
-| [**🔗 Weather site**](https://github.com/Oussemasahbeni/Weather-Website) | ANGULAR, API |
-| [**🔗 todo List**](https://github.com/Oussemasahbeni/Todo-app-with-expressJS) | expressJS, EJS |
-</div>
-
-## 👨‍💻 Software Development Projects 
-<div align="center">
-
-| Project List | Languages |
-| --- | :---: |
-| [**🔗 JAVAFX Crud**](https://github.com/Oussemasahbeni/JavaFXCrud) | JAVAFX |
-</div>
 
 ## ⚡ GitHub Stats & Languages
 

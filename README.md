@@ -46,7 +46,7 @@
 
 ## 🔮 Tools:
 
-[![My Tools](https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,azure,vscode)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,azure,vscode,rabbitmq)](https://skillicons.dev)
 
 ## ⚡ GitHub Stats 
 

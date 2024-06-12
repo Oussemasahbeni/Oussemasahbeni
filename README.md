@@ -37,16 +37,22 @@
 <td width="50%" align="center">
 	
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Oussemasahbeni&theme=dark" alt="GitHub Streak" /></a>	
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph" title="GitHub Activity Graph"> <img height="180px" src="https://github-readme-activity-graph.vercel.app/graph?username=Oussemasahbeni&theme=tokyo-night&radius=16"></a>
-</td>
-<td width="50%" align="center">
-
 [![oussema_sahbeni's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=oussema_sahbeni&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=OussemaSahbeni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180px" alt="languages graph"  />
 </td>
-</table>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=OussemaSahbeni&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180px" alt="languages graph"  />
 <img src="https://github-readme-stats.vercel.app/api?username=OussemaSahbeni&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200px" alt="stats graph"  />
+</td>
+
+<tr>
+  <td colspan="2" align="center">
+   <img height="350px" width="600px" src="https://github-readme-activity-graph.vercel.app/graph?username=Oussemasahbeni&theme=tokyo-night&radius=16">
+  </td>
+</tr>
+</table>
+
+
 
 
 

@@ -3,19 +3,12 @@
 </p>
 
 
-<h3 align="center"> 🌟 A passionate Web developer from Tunisia 🌟</h3>
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
-</div>
-
-
 ## 🙋‍♂️ About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussemasahbeni&label=Profile%20views&color=0e75b6&style=flat" alt="oussemasahbeni" /> </p>
 
-- 🥋 I'm a very Passionate student  For Programming and Problem-Solving Enthusiast. I'm always ready to learn new things with Effective ideas.
-- 🔭 I'm currently engaged in my End of Studies internship with **Inspark**.
-- 📘 I'm Currently learning **Angular /Spring Boot/ Docker**.
+- 🥋 I'm a very Passionate student For Programming and Problem-Solving. I'm always ready to learn new things with Effective ideas.
+- 🔭 I'm currently work as a software developer with **Inspark**.
+- 📘 I'm Currently learning **Angular /Spring Boot/ Docker/ python**.
 - 📫 How to reach me **oussemasahbeni300@gmail.com**.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,9 +19,9 @@
 
 ## 🚀 Languages:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,py,php,java,typescript,angular,nodejs,express,spring,mongodb,postgres,androidstudio,bootstrap,react,cypress,maven,firebase,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,typescript,angular,nodejs,express,spring,mongodb,mysql,postgres,bootstrap,react,cypress,maven,firebase,tailwindcss)](https://skillicons.dev)
 ## 🔮 Tools:
-[![My Tools](https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,latex,azure,vscode,npm,idea,rabbitmq)](https://skillicons.dev)
+[![My Tools](https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,latex,azure,vscode,npm,idea,rabbitmq,kafka)](https://skillicons.dev)
 
 ## ⚡ GitHub Stats 
 

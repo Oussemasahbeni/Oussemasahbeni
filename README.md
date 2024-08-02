@@ -6,8 +6,8 @@
 ## 🙋‍♂️ About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussemasahbeni&label=Profile%20views&color=0e75b6&style=flat" alt="oussemasahbeni" /> </p>
 
-- 🥋 I'm a very Passionate student For Programming and Problem-Solving. I'm always ready to learn new things with Effective ideas.
-- 🔭 I'm currently work as a software developer with **Inspark**.
+- 🥋 I'm a very Passionate developer For Programming and Problem-Solving. I'm always ready to learn new things with Effective ideas.
+- 🔭 I'm currently working as a software developer with **Inspark**.
 - 📘 I'm Currently learning **Angular /Spring Boot/ Docker/ python**.
 - 📫 How to reach me **oussemasahbeni300@gmail.com**.
 <h3 align="left">Connect with me:</h3>

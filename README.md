@@ -8,7 +8,7 @@
 
 - 🥋 I'm a very Passionate developer For Programming and Problem-Solving. I'm always ready to learn new things with Effective ideas.
 - 🔭 I'm currently working as a software developer with **Inspark**.
-- 📘 I'm Currently learning **Angular /Spring Boot/ Docker/ python**.
+- 📘 I'm Currently learning **Angular / Spring Boot/ Docker/ Python/ Devops**.
 - 📫 How to reach me **oussemasahbeni300@gmail.com**.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,15 +44,3 @@
   </td>
 </tr>
 </table>
-
-
-
-
-
-
-## 🎵 Listen with me in Spotify
-<div align="center">
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" title="Listen with me on Spotify">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31xb7tg5wvfjlgz5wpoumvjknuhe&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Listen with me on Spotify" />
-  </a>
-</div>

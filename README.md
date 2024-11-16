@@ -17,12 +17,9 @@
 <a href="https://www.facebook.com/oussema.sahbeni2002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oussema sahbeni" height="30" width="40" /></a>
 </p>
 
-## 🚀 Languages:
+## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,typescript,angular,nodejs,express,spring,mongodb,mysql,postgres,bootstrap,react,cypress,maven,firebase,tailwindcss)](https://skillicons.dev)
-## 🔮 Tools:
-[![My Tools](https://skillicons.dev/icons?i=git,github,bitbucket,docker,postman,latex,azure,vscode,npm,idea,rabbitmq,kafka)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=py,java,typescript,angular,nodejs,express,spring,mongodb,mysql,postgres,bootstrap,react,git,github,bitbucket,docker,postman,latex,azure,vscode,npm,idea,rabbitmq,kafka,maven,firebase,cypress,tailwindcss)](https://skillicons.dev)
 ## ⚡ GitHub Stats 
 
 <table align="center">

@@ -19,7 +19,7 @@
 
 ## 🚀 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,typescript,angular,nodejs,express,spring,mongodb,mysql,postgres,bootstrap,react,git,github,bitbucket,docker,postman,latex,azure,vscode,npm,idea,rabbitmq,kafka,maven,firebase,cypress,tailwindcss)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,fastapi,java,typescript,angular,nodejs,express,spring,mongodb,mysql,postgres,bootstrap,react,git,github,bitbucket,docker,postman,latex,azure,vscode,npm,idea,rabbitmq,kafka,maven,firebase,cypress,tailwindcss)](https://skillicons.dev)
 ## ⚡ GitHub Stats 
 
 <table align="center">

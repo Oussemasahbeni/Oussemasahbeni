@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+I'm+Oussema+Sahbeni+!&center=true&size=25"> 
-</p>
-
-
 ## 🙋‍♂️ About Me
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oussemasahbeni&label=Profile%20views&color=0e75b6&style=flat" alt="oussemasahbeni" /> </p>
 
